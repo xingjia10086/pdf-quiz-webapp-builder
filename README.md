@@ -26,9 +26,9 @@ The Skill can also guide a more advanced build with cloud sync, customer login, 
 
 `exam.xingjia.xyz` is a real mobile-first exam practice product built from the same workflow this Skill captures: PDF inventory, question extraction, answer/explanation matching, QA, responsive UI, customer-code access, and cloud progress sync.
 
-The screenshot below shows a privacy-safe entry screen only; it intentionally avoids exposing private question-bank content.
+The screenshot below shows the real mobile practice interface, including learning stats, modes, filters, a question card, options, and answer controls.
 
-![Mobile login screenshot for exam.xingjia.xyz](assets/case-studies/exam-xingjia-login.svg)
+![Mobile functional screenshot for exam.xingjia.xyz](assets/case-studies/exam-xingjia-functional.jpg)
 
 With this Skill, a new PDF-based exam pack can follow the same path:
 
@@ -211,9 +211,9 @@ MIT
 
 `exam.xingjia.xyz` 是一个真实的手机端考试刷题产品，使用的正是这个 Skill 沉淀出来的流程：PDF 清单扫描、题库提取、答案/解析匹配、质量检查、响应式网页、客户码访问和云端进度同步。
 
-下面的截图只展示不含题库正文的安全入口页，避免公开私有题库内容。
+下面的截图展示真实手机端刷题界面，包括学习统计、训练模式、筛选器、题目卡片、选项和答题控制。
 
-![exam.xingjia.xyz 手机端登录页案例截图](assets/case-studies/exam-xingjia-login.svg)
+![exam.xingjia.xyz 手机端真实功能截图](assets/case-studies/exam-xingjia-functional.jpg)
 
 通过这个 Skill，新的 PDF 考试资料包可以复用同样的路径：
 
