@@ -22,6 +22,22 @@ The default generated app is a static quiz site with:
 
 The Skill can also guide a more advanced build with cloud sync, customer login, admin panels, or deployment, but those features should be added only after the extracted question bank passes QA.
 
+## Case Study: exam.xingjia.xyz
+
+`exam.xingjia.xyz` is a real mobile-first exam practice product built from the same workflow this Skill captures: PDF inventory, question extraction, answer/explanation matching, QA, responsive UI, customer-code access, and cloud progress sync.
+
+The screenshot below shows a privacy-safe entry screen only; it intentionally avoids exposing private question-bank content.
+
+![Mobile login screenshot for exam.xingjia.xyz](assets/case-studies/exam-xingjia-login.svg)
+
+With this Skill, a new PDF-based exam pack can follow the same path:
+
+- Convert PDF folders into a structured question bank.
+- Preserve source PDF/page evidence for every question.
+- Surface attachment/case material inside the quiz UI.
+- Generate a mobile-ready study website.
+- Add commercial features such as customer login, admin management, and sync after the data passes QA.
+
 ## Repository Contents
 
 ```text
@@ -190,6 +206,22 @@ MIT
 - 适配手机端的响应式布局
 
 如果需要更商业化的版本，也可以在静态网站稳定之后继续扩展云端同步、客户码登录、管理后台和线上部署。
+
+## 案例网站：exam.xingjia.xyz
+
+`exam.xingjia.xyz` 是一个真实的手机端考试刷题产品，使用的正是这个 Skill 沉淀出来的流程：PDF 清单扫描、题库提取、答案/解析匹配、质量检查、响应式网页、客户码访问和云端进度同步。
+
+下面的截图只展示不含题库正文的安全入口页，避免公开私有题库内容。
+
+![exam.xingjia.xyz 手机端登录页案例截图](assets/case-studies/exam-xingjia-login.svg)
+
+通过这个 Skill，新的 PDF 考试资料包可以复用同样的路径：
+
+- 把 PDF 文件夹转成结构化题库。
+- 为每道题保留来源 PDF 和页码证据。
+- 在答题界面展示附件题 / 案例题原文。
+- 生成手机端可用的刷题网站。
+- 数据质检通过后，再扩展客户登录、后台管理和云端同步等商业功能。
 
 ## 仓库结构
 
