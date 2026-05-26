@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Quiz Builder Study App</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Study App</p>
+        <h1>Quiz Practice</h1>
+      </div>
+      <div class="stats">
+        <span id="done-count">0 done</span>
+        <span id="accuracy">0%</span>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="panel">
+        <label>Exam <select id="exam-filter"></select></label>
+        <label>Part <select id="part-filter"></select></label>
+        <label>Chapter <select id="chapter-filter"></select></label>
+        <label>Mode <select id="mode-filter">
+          <option value="all">All</option>
+          <option value="unseen">Unseen</option>
+          <option value="mistakes">Mistakes</option>
+        </select></label>
+        <button id="shuffle">Shuffle</button>
+      </aside>
+
+      <section class="card">
+        <div class="meta">
+          <span id="question-index"></span>
+          <span id="question-source"></span>
+        </div>
+        <h2 id="question-text">Loading...</h2>
+        <div id="attachment" class="attachment hidden"></div>
+        <div id="options" class="options"></div>
+        <div class="actions">
+          <button id="prev">Previous</button>
+          <button id="submit" class="primary">Submit</button>
+          <button id="next">Next</button>
+        </div>
+        <div id="feedback" class="feedback hidden"></div>
+      </section>
+    </main>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
