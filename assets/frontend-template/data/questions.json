@@ -1,0 +1,24 @@
+[
+  {
+    "id": "sample-1",
+    "exam_type": "shared",
+    "exam_part": "part1",
+    "chapter": "Sample",
+    "question_style": "independent",
+    "source_kind": "sample",
+    "source_file": "sample.pdf",
+    "source_page": 1,
+    "question": "Which option is marked as the sample correct answer?",
+    "options": {
+      "A": "This option is correct.",
+      "B": "This option is incorrect.",
+      "C": "This option is also incorrect."
+    },
+    "answer": "A",
+    "has_answer": true,
+    "explanation": "This is placeholder data used only to preview the template.",
+    "attachment_title": "",
+    "attachment_text": "",
+    "tags": ["sample"]
+  }
+]
