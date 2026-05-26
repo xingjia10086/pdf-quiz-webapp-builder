@@ -7,6 +7,8 @@ dist/
 .env
 *.pdf
 *.zip
+assets/case-studies/*.png
+assets/case-studies/*.jpg
 questions.json
 stats.json
 !assets/frontend-template/data/questions.json
