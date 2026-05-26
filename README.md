@@ -28,7 +28,7 @@ The Skill can also guide a more advanced build with cloud sync, customer login, 
 
 The screenshot below shows the real mobile practice interface, including learning stats, modes, filters, a question card, options, and answer controls.
 
-![Mobile functional screenshot for exam.xingjia.xyz](assets/case-studies/exam-xingjia-functional.jpg)
+![Mobile functional screenshot for exam.xingjia.xyz](assets/case-studies/exam-xingjia-functional.webp)
 
 With this Skill, a new PDF-based exam pack can follow the same path:
 
@@ -213,7 +213,7 @@ MIT
 
 下面的截图展示真实手机端刷题界面，包括学习统计、训练模式、筛选器、题目卡片、选项和答题控制。
 
-![exam.xingjia.xyz 手机端真实功能截图](assets/case-studies/exam-xingjia-functional.jpg)
+![exam.xingjia.xyz 手机端真实功能截图](assets/case-studies/exam-xingjia-functional.webp)
 
 通过这个 Skill，新的 PDF 考试资料包可以复用同样的路径：
 
