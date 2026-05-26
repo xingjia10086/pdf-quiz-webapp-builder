@@ -1,0 +1,8 @@
+interface:
+  display_name: "PDF Quiz Webapp Builder"
+  short_description: "Turn exam PDFs into polished quiz sites"
+  brand_color: "#0F766E"
+  default_prompt: "Use $pdf-quiz-webapp-builder to turn this folder of exam PDFs into a mobile-ready quiz website."
+
+policy:
+  allow_implicit_invocation: true
