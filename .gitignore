@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+quiz_work/
+site_out/
+dist/
+.env
+*.pdf
+*.zip
+questions.json
+stats.json
+!assets/frontend-template/data/questions.json
+!assets/frontend-template/data/stats.json
