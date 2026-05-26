@@ -1,0 +1,16 @@
+{
+  "total": 1,
+  "with_answers": 1,
+  "by_exam_type": {
+    "shared": 1
+  },
+  "by_exam_part": {
+    "part1": 1
+  },
+  "by_chapter": {
+    "Sample": 1
+  },
+  "by_question_style": {
+    "independent": 1
+  }
+}
