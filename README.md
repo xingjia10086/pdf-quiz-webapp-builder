@@ -4,6 +4,12 @@
 
 It helps an AI coding agent follow a repeatable production workflow: scan PDF folders, extract questions, preserve source citations, audit data quality, generate a static study app, and validate the result on mobile screens.
 
+## Repository Description
+
+**English:** A reusable Codex Skill and starter toolkit for converting exam-prep PDF folders into polished quiz websites, including PDF inventory scans, question extraction, answer and explanation matching, source-page citations, QA reports, responsive mobile UI generation, and optional commercial features such as customer-code login and cloud progress sync.
+
+**中文：** 这是一个可复用的 Codex Skill 和开源工具包，用来把考试复习 PDF 文件夹生成可用、好看的刷题网站，覆盖 PDF 清单扫描、题目提取、答案和解析匹配、PDF 页码溯源、质量检查、手机端响应式界面生成，并可继续扩展客户码登录和云端进度同步。
+
 > This repository contains only generic open-source tooling, sample data, and templates. It does not include any private PDFs, paid question banks, customer codes, API keys, or deployment secrets.
 
 ## What It Builds
@@ -28,7 +34,7 @@ The Skill can also guide a more advanced build with cloud sync, customer login, 
 
 The screenshot below shows the real mobile practice interface, including learning stats, modes, filters, a question card, options, and answer controls.
 
-![Mobile functional screenshot for exam.xingjia.xyz](assets/case-studies/exam-xingjia-functional.webp)
+![Mobile functional screenshot for exam.xingjia.xyz](assets/case-studies/exam-xingjia-functional.jpg)
 
 With this Skill, a new PDF-based exam pack can follow the same path:
 
@@ -189,6 +195,12 @@ MIT
 
 它的目标不是简单地“把 PDF 转 JSON”，而是让 AI 编程助手按一套稳定流程交付产品：扫描 PDF、提取题目、保留原文出处、做数据质检、生成静态刷题网站，并完成移动端验证。
 
+## 仓库描述
+
+**中文：** 这是一个可复用的 Codex Skill 和开源工具包，用来把考试复习 PDF 文件夹生成可用、好看的刷题网站，覆盖 PDF 清单扫描、题目提取、答案和解析匹配、PDF 页码溯源、质量检查、手机端响应式界面生成，并可继续扩展客户码登录和云端进度同步。
+
+**English:** A reusable Codex Skill and starter toolkit for converting exam-prep PDF folders into polished quiz websites, including PDF inventory scans, question extraction, answer and explanation matching, source-page citations, QA reports, responsive mobile UI generation, and optional commercial features such as customer-code login and cloud progress sync.
+
 > 本仓库只包含通用开源工具、样例数据和模板。不包含任何私有 PDF、付费题库、客户访问码、API Key 或部署密钥。
 
 ## 可以生成什么
@@ -213,7 +225,7 @@ MIT
 
 下面的截图展示真实手机端刷题界面，包括学习统计、训练模式、筛选器、题目卡片、选项和答题控制。
 
-![exam.xingjia.xyz 手机端真实功能截图](assets/case-studies/exam-xingjia-functional.webp)
+![exam.xingjia.xyz 手机端真实功能截图](assets/case-studies/exam-xingjia-functional.jpg)
 
 通过这个 Skill，新的 PDF 考试资料包可以复用同样的路径：
 
